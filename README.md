@@ -10,11 +10,11 @@ world. All ressources are in english language unless otherwise noted.
 
 ## Computer Science
 
-<details><summary>Youtube Channels</summary>
-* 📹 [Computerphile](https://www.youtube.com/@Computerphile) - each video (series) takes a computer science topic and visually explains whats going on
-* 📹 [LiveOverflow](https://www.youtube.com/@LiveOverflow) - IT security related demonstrations about exploits and vulnerabilities
-* 📹 [Reducible](https://www.youtube.com/@Reducible) - algorithms and problem solving in computer science
-</details>
+<details><summary>Youtube Channels</summary><ul>
+<li>📹 [Computerphile](https://www.youtube.com/@Computerphile) - each video (series) takes a computer science topic and visually explains whats going on</li>
+<li>📹 [LiveOverflow](https://www.youtube.com/@LiveOverflow) - IT security related demonstrations about exploits and vulnerabilities</li>
+<li>📹 [Reducible](https://www.youtube.com/@Reducible) - algorithms and problem solving in computer science</li>
+</ul></details>
 
 <details><summary>Books and Articles</summary>
 * 🕮  [The Art of Computer Programming (TAOCP)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) - monumental book series about computer science in general and massive fundus of algorithms and algorithmic thinking
