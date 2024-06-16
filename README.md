@@ -1,4 +1,4 @@
-# Awesome Explanatory Ressources about Computation
+# Ressources about Computation
 
 This page contains a list of videos channels, books, articles and other
 ressources that explain fundamental aspects of computation in easy to follow
@@ -11,8 +11,8 @@ world. All ressources are in english language unless otherwise noted.
 ## Computer Science
 
 <details><summary>Youtube Channels</summary><ul>
-<li>📹 <a href="https://www.youtube.com/@Computerphile">Computerphile</a> - visual explanations on computer science topics.</li>
-<li>📹 <a href="https://www.youtube.com/@Reducible">Reducible</a> - algorithms and problem solving in computer science.</li>
+<li>📺 <a href="https://www.youtube.com/@Computerphile">Computerphile</a> - visual explanations on computer science topics.</li>
+<li>📺 <a href="https://www.youtube.com/@Reducible">Reducible</a> - algorithms and problem solving in computer science.</li>
 </ul></details>
 
 <details><summary>Books and Articles</summary><ul>
@@ -24,18 +24,18 @@ world. All ressources are in english language unless otherwise noted.
 ## Mathematics
 
 <details><summary>Youtube Channels</summary><ul>
-<li>📹 <a href="https://www.youtube.com/@numberphile">Numberphile</a> - visual explanations of mathematical topics.</li>
-<li>📹 <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a> - provides visual plausibilization for the computational and mathematical concepts.</li>
-<li>📹 <a href="https://www.youtube.com/@Mathologer">Mathologer</a> - proofs and visualizations of diverse mathematical topics.</li>
+<li>📺 <a href="https://www.youtube.com/@numberphile">Numberphile</a> - visual explanations of mathematical topics.</li>
+<li>📺 <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a> - provides visual plausibilization for the computational and mathematical concepts.</li>
+<li>📺 <a href="https://www.youtube.com/@Mathologer">Mathologer</a> - proofs and visualizations of diverse mathematical topics.</li>
 </ul></details>
 
 ## Physics
 
 <details><summary>Youtube Channels</summary><ul>
-<li>📹 <a href="https://www.youtube.com/@UrknallWeltallLeben">Urknall, Weltall und das Leben</a> 🇩🇪 - plain explanation of deep physics and astronomy.</li>
-<li>📹 <a href="https://www.youtube.com/@videowissen">Videowissen</a> 🇩🇪🇬🇧 - additional content of `Urknall, Weltall und das Leben`.</li>
-<li>📹 <a href="https://www.youtube.com/@braintruffle">braintruffle</a> - demonstrates fluid simulations.</li>
-<li>📹 <a href="https://www.youtube.com/@jkzero">Dr. Jorge S. Diaz</a> - explains the thinking and experiments that lead to the fundamental physics theories.</li>
+<li>📺 <a href="https://www.youtube.com/@UrknallWeltallLeben">Urknall, Weltall und das Leben</a> 🇩🇪 - plain explanation of deep physics and astronomy.</li>
+<li>📺 <a href="https://www.youtube.com/@videowissen">Videowissen</a> 🇩🇪🇬🇧 - additional content of `Urknall, Weltall und das Leben`.</li>
+<li>📺 <a href="https://www.youtube.com/@braintruffle">braintruffle</a> - demonstrates fluid simulations.</li>
+<li>📺 <a href="https://www.youtube.com/@jkzero">Dr. Jorge S. Diaz</a> - explains the thinking and experiments that lead to the fundamental physics theories.</li>
 </ul></details>
 
 <details><summary>Books and Articles</summary><ul>
@@ -45,11 +45,11 @@ world. All ressources are in english language unless otherwise noted.
 ## Natural Science
 
 <details><summary>Youtube Channels</summary><ul>
-<li>📹 <a href="https://www.youtube.com/playlist?list=PLISEtDmihMo0ylXgJwoX5Hzj9PqFnYRFB">Biology and Information Theory - Playlist of William Bialek Lectures</a> - biological systems under the lense of information theory.</li>
+<li>📺 <a href="https://www.youtube.com/playlist?list=PLISEtDmihMo0ylXgJwoX5Hzj9PqFnYRFB">Biology and Information Theory - Playlist of William Bialek Lectures</a> - biological systems under the lense of information theory.</li>
 </ul></details>
 
 ## General Educational Content
 
 <details><summary>Youtube Channels</summary><ul>
-<li>📹 <a href="https://www.youtube.com/@veritasium">Veritasium</a> - entertaining explanations of mathematical and natural sciences phenomena.</li>
+<li>📺 <a href="https://www.youtube.com/@veritasium">Veritasium</a> - entertaining explanations of mathematical and natural sciences phenomena.</li>
 </ul></details>
