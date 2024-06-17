@@ -47,6 +47,7 @@ world. All ressources are in english language unless otherwise noted.
 ## Natural Science
 
 <details><summary>Youtube</summary><ul>
+<li>📺 <a href="https://www.youtube.com/@Clockworkbio">Biochemistry and the Processess of Life</a></li>
 <li>📺 <a href="https://www.youtube.com/playlist?list=PLISEtDmihMo0ylXgJwoX5Hzj9PqFnYRFB">Biology and Information Theory - Playlist of William Bialek Lectures</a> - biological systems under the lense of information theory.</li>
 </ul></details>
 
