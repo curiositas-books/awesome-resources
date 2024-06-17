@@ -19,6 +19,8 @@ world. All ressources are in english language unless otherwise noted.
 <li>🕮  <a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a> - monumental book series about algorithms, data structures and computer science.</li>
 <li>🕮  <a href="http://elementsofprogramming.com/">Elements of Programming</a> - translation of algebra to data structures and algorithms.</li>
 <li>🕮  <a href="https://www.fm2gp.com/">From Mathematics to Generic Programming</a> - similar to <code>Elements of Programming</code> but a lighter read.</li>
+<li>🕮  <a href="https://en.algorithmica.org/hpc/">Algorithms for Modern Hardware</a> - book of how algorithms work on modern hardware.</li>
+<li>🕮  <a href="https://www.amazon.com/dp/B08PXHJCXY">Implementing Useful Algorithms in C++</a> <a href="https://github.com/dkedyk/ImplementingUsefulAlgorithms"><img src="https://github.githubassets.com/favicons/favicon.svg" /></a>- presents workable code for a wide selection of topics with additional text, sometimes just notes</li>
 </ul></details>
 
 ## Mathematics
