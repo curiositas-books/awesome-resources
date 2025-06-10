@@ -13,7 +13,8 @@ world. All ressources are in english language unless otherwise noted.
 <details><summary>Youtube</summary><ul>
 <li>📺 <a href="https://www.youtube.com/@Computerphile">Computerphile</a> - visual explanations on computer science topics.</li>
 <li>📺 <a href="https://www.youtube.com/@Reducible">Reducible</a> - algorithms and problem solving in computer science.</li>
-<li>📺 <a href="https://www.youtube.com/@ArtemKirsanov/featured">ArtemKirsanov</a> - neural networks and AI.</li>
+<li>📺 <a href="https://www.youtube.com/@ArtemKirsanov">ArtemKirsanov</a> - neural networks and AI.</li>
+<li>📺 <a href="https://www.youtube.com/@CoreDumpped">Core Dumped</a> - system programming algorithms and issues.</li>
 </ul></details>
 
 <details><summary>Books and Articles</summary><ul>
